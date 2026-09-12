@@ -392,7 +392,7 @@ The prototype can be extended with:
 
 ### GitHub
 
-`<ADD-GITHUB-REPOSITORY-LINK>`
+`<https://github.com/SammetaNakshathra/wearable-ai-pipeline>`
 
 ### Demo Video
 
