@@ -396,7 +396,7 @@ The prototype can be extended with:
 
 ### Demo Video
 
-`<ADD-DEMO-VIDEO-LINK>`
+`<https://drive.google.com/drive/folders/1Wjzl7tttbr-8cDeVqk-aG2US8hIXWCSw>`
 
 ---
 
